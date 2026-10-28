@@ -1,6 +1,6 @@
 # iPadel Melbourne website
 
-**The online store and website for iPadel, a padel club in Melbourne.** I build and run the site as iPadel's Web Developer / Administrator.
+**The online store and website for iPadel, a padel club in Melbourne.** I built and run the site myself as iPadel's Web Developer / Administrator.
 
 **Live site:** [ipadel.au](https://ipadel.au)
 
