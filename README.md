@@ -29,4 +29,4 @@ Shopify (Liquid, Online Store 2.0 sections), HTML, CSS, JavaScript, WordPress, W
 
 **Source is private (client work). Demo or code walkthrough available on request.**
 
-**Built by Omar Al Azhari** · [LinkedIn](https://www.linkedin.com/in/omar-alazhari-028a6a203) · [GitHub](https://github.com/Omar-Azhari)
+**Built by Omar Al Azhari** · [LinkedIn](https://www.linkedin.com/in/omar-al-azhari-028a6a203) · [GitHub](https://github.com/Omar-Azhari)
